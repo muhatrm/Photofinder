@@ -1,6 +1,5 @@
 # 🎮 Photo Finder
 
-> **📌 For Employers:** Full source code available upon request for application evaluation.  
 > **Contact:** muhammed.ali.tuerkmen@gmail.com | [Portfolio](https://tuerkmen.dev)
 
 A competitive real-time multiplayer image guessing game where players race to identify progressively revealed images. Built as a vocational school final project demonstrating full-stack development expertise.
@@ -155,3 +154,4 @@ This project was created as a vocational school examination project in Summer 20
 ---
 
 **Note:** This application showcases professional software development standards including secure architecture, scalable design patterns, and comprehensive testing procedures. The complete source code is available to potential employers upon request.
+
